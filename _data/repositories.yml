@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - hksabade10
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - hksabade10/ScalableEcommerce
+  - hksabade10/mern-course-app
+  - hksabade10/Pathfinder
+  - hksabade10/SortingVisualizer
+  - hksabade10/BattleTank
