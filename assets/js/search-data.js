@@ -398,16 +398,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-enrolled-in-ug-engineering-at-college-of-engineering-pune",
+          title: 'Enrolled in UG engineering at College of Engineering, Pune',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-completed-graduation-in-engineering-at-college-of-engineering-pune",
+          title: 'Completed graduation in engineering at College of Engineering, Pune',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-started-working-with-tata-consultancy-services",
+          title: 'Started working with Tata Consultancy Services.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -481,13 +479,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/hksabade10", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
       id: 'light-theme',
